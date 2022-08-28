@@ -151,6 +151,19 @@
     });
   }
 
+  const typed2 = select('.typed-2')
+  if (typed2) {
+    let typed_strings = typed2.getAttribute('data-typed-items')
+    typed_strings = typed_strings.split('.')
+    new Typed('.typed-2', {
+      strings: typed_strings,
+      loop: false,
+      typeSpeed: 100,
+      backSpeed: 0,
+      backDelay: 2000000
+    });
+  }
+
   /**
    * Skills animation
    */
