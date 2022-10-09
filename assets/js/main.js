@@ -262,6 +262,9 @@
     }
   });
 
+  //var selectedText = $("swiper-slide-active").find("img").attr("data-name");
+ // console.log(selectedText);
+
   /**
    * Animation on scroll
    */
