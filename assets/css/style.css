@@ -4,7 +4,6 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
-  background: rgb(158, 71, 116);
 }
 
 a {
@@ -280,7 +279,7 @@ h6 {
   height: 100vh;
   /*background: url("../img/bg-vid.gif") top right no-repeat;
   /*background-position: right;*/
-  background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) ), url("../img/hero-bg-vid.gif") top center;
+  background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) ), url("https://media.giphy.com/media/j3mdQpQ9SKxFOWs9gy/giphy.gif") top center;
   background-size: cover;
   position: relative;
 }
@@ -317,7 +316,7 @@ h6 {
 }
 
 #hero p span {
-  color: #0563bb;
+  color: rgb(17, 255, 0);
   letter-spacing: 1px;
 }
 
@@ -339,15 +338,15 @@ h6 {
 }
 
 .neonText{
-  color: rgb(13, 140, 224);
+  color:rgb(255, 255, 255);
   text-shadow: 
-    0 0 10px rgb(13, 140, 224), 
-    0 0 20px rgb(13, 140, 224), 
-    0 0 30px rgb(13, 140, 224), 
-    0 0 40px rgb(13, 140, 224), 
-    0 0 50px rgb(13, 140, 224), 
-    0 0 60px rgb(13, 140, 224), 
-    0 0 70px rgb(13, 140, 224);
+    0 0 10px rgb(255, 255, 255), 
+    0 0 20px rgb(255, 255, 255), 
+    0 0 30px rgb(255, 255, 255), 
+    0 0 40px rgba(17, 255, 0, 0.505), 
+    0 0 50px rgba(17, 255, 0, 0.505), 
+    0 0 60px rgba(17, 255, 0, 0.505), 
+    0 0 70px rgba(17, 255, 0, 0.505);
 }
 
 .description{
