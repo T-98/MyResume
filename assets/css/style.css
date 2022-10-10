@@ -279,7 +279,7 @@ h6 {
   height: 100vh;
   /*background: url("../img/bg-vid.gif") top right no-repeat;
   /*background-position: right;*/
-  background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) ), url("https://media.giphy.com/media/j3mdQpQ9SKxFOWs9gy/giphy.gif") top center;
+  background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) ), url("https://media.githubusercontent.com/media/T-98/MyResume/master/assets/img/hero-bg-vid.gif") top center;
   background-size: cover;
   position: relative;
 }
