@@ -4,6 +4,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  background: rgb(158, 71, 116);
 }
 
 a {
@@ -335,6 +336,22 @@ h6 {
 
 #hero .social-links a:hover {
   color: #0563bb;
+}
+
+.neonText{
+  color: rgb(13, 140, 224);
+  text-shadow: 
+    0 0 10px rgb(13, 140, 224), 
+    0 0 20px rgb(13, 140, 224), 
+    0 0 30px rgb(13, 140, 224), 
+    0 0 40px rgb(13, 140, 224), 
+    0 0 50px rgb(13, 140, 224), 
+    0 0 60px rgb(13, 140, 224), 
+    0 0 70px rgb(13, 140, 224);
+}
+
+.description{
+  font-weight: 400;
 }
 
 /*.bg-video{
